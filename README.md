@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Freelancer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML<br>💬 Ask me about Flutter and Firebase<br>⚡ Fun fact: I'm also a graphic design
+🔭 I’m currently Freelancer<br>👯 I’m looking for sensei in Flutter 🤝<br>🌱 I’m currently learning ML and Flutter <br>💬 Ask me about Flutter and Firebase<br>⚡ Fun fact: I'm also a graphic design
 
 
 ## 🌐 Socials:
